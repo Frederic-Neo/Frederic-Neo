@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frederic Thomson
+- 👋 Hi, I’m @frederic-neo
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Frontend Techs
 
