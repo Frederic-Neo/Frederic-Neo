@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frederic-neo
 - 👀 I’m interested in React
-- 🌱 I’m currently learning Frontend Techs
+- 🌱 I’m currently mastering Frontend Techs
 
 <!---
 Frederic-Neo/Frederic-Neo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
